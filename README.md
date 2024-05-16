@@ -10,7 +10,7 @@ Este é um projeto de uma biblioteca online que integra APIs de diferentes sites
 
 ## Contribuição
 
-[João Victor Araújo](link)
-[Júlio Barbosa](https://github.com/juliobrbsa)
-[Matheus Oliveira](https://github.com/matheussoliveira323)
-[Luigi Gomes](https://github.com/LGAP159)
+[João Victor Araújo](link) <br>
+[Júlio Barbosa](https://github.com/juliobrbsa) <br>
+[Matheus Oliveira](https://github.com/matheussoliveira323) <br>
+[Luigi Gomes](https://github.com/LGAP159) <br>
