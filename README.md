@@ -8,7 +8,7 @@ Este é um projeto de uma biblioteca online que integra APIs de diferentes sites
 - **Pesquisa de Livros**: Os usuários podem pesquisar livros pelo título, autor, navega pelas categorias;
 - **Detalhes do Livro**: Os usuários podem visualizar detalhes completos de um livro.
 
-## Contribuição
+## Contribuidores
 
 [João Victor Araújo](https://github.com/JoaoArauto) <br>
 [Júlio Barbosa](https://github.com/juliobrbsa) <br>
