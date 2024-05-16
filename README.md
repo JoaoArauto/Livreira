@@ -5,8 +5,8 @@ Este é um projeto de uma biblioteca online que integra APIs de diferentes sites
 
 ## Funcionalidades
 
-- Pesquisa de Livros: Os usuários podem pesquisar livros pelo título, autor, navega pelas categorias;
-- Detalhes do Livro: Os usuários podem visualizar detalhes completos de um livro.
+- **Pesquisa de Livros**: Os usuários podem pesquisar livros pelo título, autor, navega pelas categorias;
+- **Detalhes do Livro**: Os usuários podem visualizar detalhes completos de um livro.
 
 ## Contribuição
 
