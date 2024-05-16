@@ -14,3 +14,4 @@ Este é um projeto de uma biblioteca online que integra APIs de diferentes sites
 [Júlio Barbosa](https://github.com/juliobrbsa) <br>
 [Matheus Oliveira](https://github.com/matheussoliveira323) <br>
 [Luigi Gomes](https://github.com/LGAP159) <br>
+[João Paulo](https://github.com/joaopaulsl) <br>
